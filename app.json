@@ -1,0 +1,14 @@
+{
+    "name": "CopperSulfate",
+    "description": "CopperSulfate",
+    "keywords": ["CopperSulfate"],
+    "env": {
+        "UUID": {
+            "description": "CopperSulfate UUID",
+            "value": "<--Please Enter UUID!-->"
+        }
+    },
+    "website": "CopperSulfate",
+    "repository": "CopperSulfate",
+    "stack": "container"
+}
